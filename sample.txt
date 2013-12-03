@@ -1,0 +1,8 @@
+sunny	sonnig
+cloudy	wolkig
+rainy	regnerisch
+stormy	stürmisch
+grey	grau
+overcast	bewölkt
+clear	klar
+wonderful	wunderbar
