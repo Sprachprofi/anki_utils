@@ -7,4 +7,4 @@ Short scripts that enhance Anki flashcards: export your Anki flashcards to .txt 
 * order or shuffle the cards
 * ... more to come
 
-These scripts were initially created by Judith Meyer (judith@learnlangs.com) and are released into the Public Domain.
+These scripts were initially created by Judith Meyer (yutian.mei@gmail.com) and are released into the Public Domain.
